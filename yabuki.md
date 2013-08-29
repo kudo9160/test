@@ -1,6 +1,6 @@
-﻿# 矢吹の説明
+# 矢吹の説明
 
-## GitHubの使い方
+## GitHubの
 
-1. アカウントを作る
-1. サインイン
+1. Create an account,
+1. Sign in.
